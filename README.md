@@ -47,3 +47,5 @@ metrics=['accuracy']
 
 2. For classifying gender from webcam run command "python mainvideo.py
 
+# Output of mainimage.py:
+![alt text](https://github.com/nman7/Facial-Gender-classification/blob/master/hk.JPG)
