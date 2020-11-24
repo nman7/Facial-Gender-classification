@@ -11,7 +11,7 @@ labels_dict = {
     1 : 'woman',
 }
 
-img = cv2.imread('g2.jpg')
+img = cv2.imread('testimages\g2.jpg')
 gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
 faces = face_cascade.detectMultiScale(img,scaleFactor=1.1,
